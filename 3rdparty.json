@@ -1,0 +1,13 @@
+{
+  "AssemblyName": "CraftBot",
+  "FileList": [
+    "CraftBot.cs",
+    "GeneralSettings.cs",
+    "Gui.baml",
+    "Gui.g.cs",
+    "Gui.xaml",
+    "Gui.xaml.cs"
+  ],
+  "Dependencies": [],
+  "References": []
+}
